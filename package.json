@@ -1,0 +1,16 @@
+{
+  "name": "express-practice",
+  "version": "1.0.0",
+  "description": "This is a demo to work with express js",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nandhini",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
